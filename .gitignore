@@ -1,2 +1,7 @@
+.git
 goportscan
+goportscan.exe
 *.exe
+*.dll
+*.so
+*.dylib
